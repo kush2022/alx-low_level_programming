@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * print_alphabet - prints all alphabets in lowercase.
  * Return: On success 1.
@@ -12,3 +12,4 @@ _putchar(i);
 }
 _putchar('\n');
 }
+
